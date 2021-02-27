@@ -1,0 +1,13 @@
+{
+    "name": "Bedouin",
+    "description": "Discord Bot for Silkroad In The Sky Project",
+    "created": "23/3/2021",
+    "completed": "true",
+    "modules": [
+        "os"
+    ],
+    "hosting": {
+        "hosted": "false"
+    },
+    "code": "BE-23032021-200806"
+}
